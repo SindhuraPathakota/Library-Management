@@ -1,0 +1,14 @@
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\bin\Debug\FinalProject13.exe.config
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\bin\Debug\FinalProject13.exe
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\bin\Debug\FinalProject13.pdb
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\FinalProject13.csprojAssemblyReference.cache
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\MainWindow.g.cs
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\App.g.cs
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\FinalProject13_MarkupCompile.cache
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\FinalProject13_MarkupCompile.lref
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\MainWindow.baml
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\FinalProject13.g.resources
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\FinalProject13.Properties.Resources.resources
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\FinalProject13.csproj.GenerateResource.cache
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\FinalProject13.exe
+C:\Users\jkonkala\Desktop\C#\Exercises\Group13\obj\Debug\FinalProject13.pdb
